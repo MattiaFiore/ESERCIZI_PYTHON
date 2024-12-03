@@ -23,4 +23,4 @@ oggi = date.today()
 
 ## Verifica della soluzione 
 
-La verifica va effettuata a mano dato che il risultato del codice cambiera in base al momento in cui viene eseguito. 
+La verifica va effettuata a mano dato che il risultato del codice cambiera in base al giorno in cui viene eseguito. 
