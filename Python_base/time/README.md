@@ -4,6 +4,7 @@ La libreria time e molto utile. Ecco alcune delle features piu importanti di que
 
 ## Elenco esercizi
 - [Tempo impiegato per creare lista di numeri random](./timing_random/)
+- [Tempo impiegato per operare su file di testo ](./canzoni/)
 ## time.time()
 Restituisce un float che rappresenta il numero di secondi tra oggi e il 1 Gennaio del 1970. 
 ```python 
