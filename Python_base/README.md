@@ -5,5 +5,5 @@ In questa cartella sono presenti gli esercizi relativi all'utilizzo di Python e 
 - [Esercizi sulla libreria random](./random/)
 - [Esercizi sulle list comprehension](./list_comprehension/) 
 - [Esercizi su datetime](./datetime/) 
-- [time](./time/)
+- [Esercizi sulla libreria time](./time/)
 
