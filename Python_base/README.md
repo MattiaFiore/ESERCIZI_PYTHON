@@ -3,6 +3,7 @@ In questa cartella sono presenti gli esercizi relativi all'utilizzo di Python e 
 
 - [Esercizi sui loop](./Loops/)
 - [Esercizi sulle liste](./Liste/)
+- [Esercizi sui dizionari](./Dizionari/)
 - [Esercizi sui file](./file/)
 - [Esercizi sulla libreria random](./random/)
 - [Esercizi sulle list comprehension](./list_comprehension/) 

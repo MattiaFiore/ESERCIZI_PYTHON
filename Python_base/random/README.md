@@ -4,3 +4,4 @@ Random e una libreria molto importante perche ci permette di utilizzare in modo 
 
 # Elenco degli esercizi
 - [Calcolare probabilita dei dadi](./dado/)
+- [BlackJack](./Blackjack)
